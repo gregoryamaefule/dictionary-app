@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import dictionaryLogo from './assets/iconoir_book.png'
-import oval from './assets/oval.png'
+// import oval from './assets/oval.png'
 import halfmoon from './assets/iconoir_half-moon.png'
 import halfmoondark from './assets/iconoir_half-moon-dark.png'
 import iconoir_search from './assets/iconoir_search.png'
