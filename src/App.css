@@ -29,11 +29,13 @@ select{
   cursor: pointer;
   text-align: center;
   font-family: monospace;
+  background-color: inherit;
 }
 option{
   font-weight: 700;
   font-size: 14px;
   color: #757575;
+  background-color: inherit;
 }
 .innHeader{
   display: flex;
